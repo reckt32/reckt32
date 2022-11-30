@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reckt32
+- 👋 Hi, I’m Divyansh
 - 👀 I’m interested in exploring all types of development and opensource.
 - 🌱 I’m currently learning java,web development, C++.
 - 💞️ I’m looking to collaborate on beginner projects in java.
