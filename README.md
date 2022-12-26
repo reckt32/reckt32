@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Divyansh
+- 👋 Hi, I’m Divyansh, Junior Developer at DevSoc BITS Goa
 - 👀 I’m interested in exploring all types of development and opensource.
-- 🌱 I’m currently learning java,web development, C++.
+- 🌱 I’m currently learning App Development using Flutter
 - 💞️ I’m looking to collaborate on beginner projects in java.
 - 📫 How to reach me --> @reckt32 on twitter.
 
