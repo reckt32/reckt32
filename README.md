@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Divyansh, Senior Developer at DevSoc BITS Goa
+- 👋 Hi, I’m Divyansh, Sub Coordinator at DevSoc BITS Goa
 - 👀 I’m interested in exploring all types of development and opensource.
 - 🌱 I’m currently learning anything that I find interesting.
 - 💞️ I’m looking to collaborate on projects in flutter.
